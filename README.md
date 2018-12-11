@@ -2,4 +2,6 @@
 test
 
 
-My name is Jeremey, I am a browns Fan and I love playing video games.
+
+My name is Jeremey.  I enjoy playing video games and watching the Browns!
+
